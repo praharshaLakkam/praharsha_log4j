@@ -1,0 +1,5 @@
+
+2020-02-26 16:57:30,721(YYYY-MM-DD HH:mm:ss) INFO  simpleinterest.class(1):11 - 1500.0
+2020-02-26 16:57:30,728(YYYY-MM-DD HH:mm:ss) INFO  compoundinterest.class(1):11 - 11576.250000000002
+2020-02-26 22:26:16,894(YYYY-MM-DD HH:mm:ss) INFO  simpleinterest.class(1):11 - 600.0
+2020-02-26 22:26:16,902(YYYY-MM-DD HH:mm:ss) INFO  compoundinterest.class(1):11 - 10612.080000000002
